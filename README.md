@@ -22,7 +22,7 @@ For the start, we will analyze only CIFAR-10 workload across two model architect
 
 ### 1. Custom Wide ResNet fast.ai students team DAWNBench submission (Baseline)
 
-[Jupyter Notebook / Source](/src/models/cifar10_custom_wrn_dawnbench.ipynb#fastai-DAWN-bench-submission)
+[Jupyter Notebook / Source](/src/cifar10_custom_wrn_dawnbench.ipynb#fastai-DAWN-bench-submission)
 
 ![Training](/images/cifar10_fastai_dawnbench_submission_training.png)
 
@@ -30,7 +30,7 @@ For the start, we will analyze only CIFAR-10 workload across two model architect
 
 ### 2. My Custom Wide ResNet + AdamW + modified 1 cycle policy hyper-parameters
 
-[Jupyter Notebook / Source](/src/models/cifar10_custom_wrn_adamw.ipynb)
+[Jupyter Notebook / Source](/src/cifar10_custom_wrn_adamw.ipynb)
 
 ![Training](/images/cifar10_fastai_adamw_training.png)
 
@@ -38,7 +38,7 @@ For the start, we will analyze only CIFAR-10 workload across two model architect
 
 ### 3. My Custom Wide ResNet + modified 1 cycle policy hyper-parameters
 
-[Jupyter Notebook / Source](/src/models/cifar10_custom_wrn_dawnbench.ipynb)
+[Jupyter Notebook / Source](/src/cifar10_custom_wrn_dawnbench.ipynb)
 
 ![Training](/images/cifar10_custom_wrn_training.png)
 
